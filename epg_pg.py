@@ -5,6 +5,8 @@ Config to exclude EPG from Preferred Group
 Customized by: Huyen Duong
 POC Quality
 
+Test Git
+
 '''
 
 # list of packages that should be imported for this code to work
